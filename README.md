@@ -44,8 +44,8 @@ for i in range(n):
 ```
 
 ## Output:
-<img width="1859" height="926" alt="Screenshot 2026-03-11 095016" src="https://github.com/user-attachments/assets/410541f1-c214-456a-bbb4-0ca1db7f2ea5" />
 
+<img width="1913" height="941" alt="Screenshot 2026-03-18 101711" src="https://github.com/user-attachments/assets/8115674f-2ea2-4fe0-b3ae-3e136dc251dc" />
 
 
 ## Result:
